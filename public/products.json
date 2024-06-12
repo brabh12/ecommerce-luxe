@@ -1,0 +1,72 @@
+
+
+[
+    {
+        "id":1,
+       "title":"Hijab À Motifs Des Lines",
+       "category": "Hijab",
+       "price": 4990,
+        "image":"/images/products/image1.png",
+        "status": "Best Selers",
+        "descri":"Our everyday hijabs are designed for maximum comfort and ease. Made from soft, breathable fabrics like cotton and jersey, these hijabs are perfect for daily wear. They come in a variety of colors and patterns, allowing you to mix and match with your everyday outfits. Whether you're at work, school, or out running errands, our everyday hijabs provide the perfect balance of style and practicality."
+    },
+    {
+        "id":2,
+       "title":"Robe De Soirée Hijab Violet ",
+       "category": "Eid & Ramadan Collection",
+       "price": 10400 ,
+       "image":"/images/products/image2.png",
+       "status": "Best Selers",
+       "descri":"Our everyday hijabs are designed for maximum comfort and ease. Made from soft, breathable fabrics like cotton and jersey, these hijabs are perfect for daily wear. They come in a variety of colors and patterns, allowing you to mix and match with your everyday outfits. Whether you're at work, school, or out running errands, our everyday hijabs provide the perfect balance of style and practicality."
+    },
+    {
+        "id":7,
+       "title":"Goat Lunettes de Soleil",
+       "category": "Accessories",
+       "price": 11900,
+       "image":"/images/products/image8.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":8,
+       "title":"Moda Zanobia Robe Hijab",
+       "category": "Hijab",
+       "price": 6990,
+       "image":"/images/products/image3.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":3,
+       "title":"Robe Hijab Avec Tulle",
+       "category": "Hijab",
+       "price": 4990,
+       "image":"/images/products/image4.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":4,
+       "title":"Hijab Dress Bleu Clair Jeans",
+       "category" :"Eid & Ramadan Collection",
+       "price": 5990,
+       "image":"/images/products/image5.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":5,
+       "title":"Sac à main retro marron",
+       "category": "Accessories",
+       "price": 3510,
+       "image":"/images/products/image6.png",
+       "status": "New Arriaval"
+    },
+    {
+        "id":6,
+       "title":"Sac à main retro motif noir",
+       "category": "Accessories",
+       "price": 3510,
+       "image":"/images/products/image7.png",
+       "status": "New Arriaval"
+    }
+    
+   
+]
