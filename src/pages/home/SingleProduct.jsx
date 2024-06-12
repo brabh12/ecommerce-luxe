@@ -82,7 +82,7 @@ const SingleProduct = () => {
                   </div>
                   <div className="w-full text-left my-4">
                     <button
-                      className="flex justify-center items-center gap-2 w-full py-3 px-4 text-blue-800 text-white text-md font-bold border border-blue-500 rounded-md ease-in-out duration-150 shadow-slate-600 hover:bg-white hover:text-blue-500 lg:m-0 md:px-6"
+                      className="flex justify-center items-center gap-2 w-full py-3 px-4 text-blue-800 text-blue text-md font-bold border border-blue-500 rounded-md ease-in-out duration-150 shadow-slate-600 hover:bg-white hover:text-blue-500 lg:m-0 md:px-6"
                       title="Confirm Order"
                     >
                       <span>Confirm Order</span>
