@@ -74,7 +74,7 @@ const BestSellers = () => {
 
             <div className="flex justify-between">
               <p className="text-black/50">{product.category}</p>
-              <p className="font-semibold">${product.price}</p>
+              <p className="font-semibold">DZD{product.price}</p>
             </div>
           </div>
                 </SwiperSlide>
